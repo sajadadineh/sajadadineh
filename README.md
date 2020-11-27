@@ -1,1 +1,1 @@
-<img src="https://github.com/sajadadineh/sajadadineh/blob/main/programmer.gif" width="500">
+<img src="https://github.com/sajadadineh/sajadadineh/blob/main/programmer.gif" width="250">
